@@ -45,7 +45,7 @@ setup(
         'Pillow==2.5.3',
         'Sphinx==1.2.2',
         'Jinja2==2.7.3',
-        'Pygments==1.6',
+        'Pygments==2.15.0',
         'dj-database-url==0.3.0',
         'django-hvad',
         'djangocms-text-ckeditor>=2.1.1',
